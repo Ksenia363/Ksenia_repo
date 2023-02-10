@@ -23,3 +23,44 @@ int[] FillArray(int size)
 
 int[] myArray = FillArray(8);
 PrintArray(myArray);
+
+// Первый вариант
+
+// void GetArray(int[] arr)
+// {
+// var rand = new Random();
+// for (int i = 0; i < arr.Length; i++)
+// {
+// arr[i] = rand.Next(0, 2);
+// }
+// }
+
+// void PrintArray(int[] arr)
+// {
+// System.Console.WriteLine("["+string.Join(", ", arr)+"]");
+// }
+
+// int[] myArray = new int[8];
+// GetArray(myArray);
+// PrintArray(myArray);
+
+// Второй вариант
+
+// int[] GetArray()
+// {
+// var arr = new int[8];
+// var rand = new Random();
+// for (int i = 0; i < arr.Length; i++)
+// {
+// arr[i] = rand.Next(0, 2);
+// }
+// return arr;
+// }
+
+// void PrintArray(int[] arr)
+// {
+// System.Console.WriteLine("["+string.Join(", ", arr)+"]");
+// }
+
+// var myArray = GetArray();
+// PrintArray(myArray);
