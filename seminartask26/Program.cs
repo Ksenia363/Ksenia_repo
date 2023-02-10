@@ -5,10 +5,10 @@
 
 string? GetNumber(string text)
 {
-System.Console.Write(text);
-return Console.ReadLine();
+    System.Console.Write(text);
+    return Console.ReadLine();
 }
 
 string A = GetNumber("Введите число ");
-int len=A!.Length;
+int len = A!.Length;
 Console.WriteLine(len);
