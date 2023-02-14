@@ -8,6 +8,9 @@ double[] GenerateArray(int size, int leftRange, int rightRange)
     for (int i = 0; i < array.Length; i++)
     {
         array[i] = Math.Round(rand.Next(leftRange, rightRange + 1) + rand.NextDouble(), 3);
+        // два способа генирации вещественных чисел
+        // arr[i] = Math.Round(rand.NextDouble() * (maxValue - minValue) + minValue);
+        // arr[i] = Math.Round(rand.Next(minValue, maxValue) + rand.NextDouble());
     }
     return array;
 }
@@ -29,7 +32,7 @@ double Difference(double[] array)
         {
             max = array[i];
         }
-        
+
     }
     result = max - min;
     return Math.Round(result, 3);
