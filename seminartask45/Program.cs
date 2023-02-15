@@ -1,5 +1,5 @@
-﻿// Задача 45: Напишите программу, которая будет создавать копию 
-// заданного массива с помощью поэлементного копирования.
+﻿//Задача 45: Напишите программу, которая будет создавать
+// копию заданного массива с помощью поэлементного копирования.
 
 int[] GenerateArray(int size, int leftRange, int rightRange)
 {
@@ -23,12 +23,23 @@ int[] CopyPaste(int[] array)
 
 }
 
-
 void PrintArray(int[] array)
 {
     System.Console.WriteLine("[" + string.Join(", ", array) + "]");
 }
-int[] arr = GenerateArray(5, 0, 100);
+
+
+int[] arr = GenerateArray(5, 0, 10);
+// int[] arrCopy = CopyPaste(arr);
+// PrintArray(arrCopy);
+int[] arrCopy = arr[..]; // Копирование массива одной строкой с разным выделением памяти
+int[] arrCopy2 = arr; // Копирование массива с одними и теми же ячейками памяти
+
+arr[0] = 100;
+
 PrintArray(arr);
-int[] arrCopy = CopyPaste(arr);
+PrintArray(arrCopy);
+
+arrCopy[0] = 200;
+PrintArray(arr);
 PrintArray(arrCopy);

@@ -6,7 +6,6 @@
 System.Console.WriteLine("Введите число n: ");
 int Fibonachi1 = 0;
 int Fibonachi2 = 1;
-int FibonachiN;
 
 
 int n = Convert.ToInt32(System.Console.ReadLine());
