@@ -1,0 +1,15 @@
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\bin\Debug\net6.0\seminartask51.exe
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\bin\Debug\net6.0\seminartask51.deps.json
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\bin\Debug\net6.0\seminartask51.runtimeconfig.json
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\bin\Debug\net6.0\seminartask51.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\bin\Debug\net6.0\seminartask51.pdb
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.csproj.AssemblyReference.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.AssemblyInfoInputs.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.AssemblyInfo.cs
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.csproj.CoreCompileInputs.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\refint\seminartask51.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.pdb
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\seminartask51.genruntimeconfig.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\seminartask51\obj\Debug\net6.0\ref\seminartask51.dll
