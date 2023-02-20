@@ -30,10 +30,10 @@ void PrintArray(int[] array)
 
 
 int[] arr = GenerateArray(5, 0, 10);
-// int[] arrCopy = CopyPaste(arr);
-// PrintArray(arrCopy);
-int[] arrCopy = arr[..]; // Копирование массива одной строкой с разным выделением памяти
-int[] arrCopy2 = arr; // Копирование массива с одними и теми же ячейками памяти
+int[] arrCopy = CopyPaste(arr);
+PrintArray(arrCopy);
+// int[] arrCopy = arr[..]; // Копирование массива одной строкой с разным выделением памяти
+// int[] arrCopy2 = arr; // Копирование массива с одними и теми же ячейками памяти
 
 arr[0] = 100;
 
