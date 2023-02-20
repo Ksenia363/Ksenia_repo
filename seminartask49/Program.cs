@@ -54,7 +54,6 @@ void ZamenaNechet(int[,] matr)
     
 }
 
-
 int rows = ReadInt("Введите количество строк матрицы: ");
 int cols = ReadInt("Введите количество столбцов матрицы: ");
 
