@@ -14,7 +14,7 @@ int ReadInt(string text)
 
 int[,] GenerateMatrix(int rows, int cols)
 {
-    Random rand = new Random();
+
     int[,] matrix = new int[rows, cols];
 
     for (int i = 0; i < matrix.GetLength(0); i++)
