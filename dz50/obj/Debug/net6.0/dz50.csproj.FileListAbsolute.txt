@@ -1,0 +1,15 @@
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\bin\Debug\net6.0\dz50.exe
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\bin\Debug\net6.0\dz50.deps.json
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\bin\Debug\net6.0\dz50.runtimeconfig.json
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\bin\Debug\net6.0\dz50.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\bin\Debug\net6.0\dz50.pdb
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.csproj.AssemblyReference.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.AssemblyInfoInputs.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.AssemblyInfo.cs
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.csproj.CoreCompileInputs.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\refint\dz50.dll
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.pdb
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\dz50.genruntimeconfig.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\dz50\obj\Debug\net6.0\ref\dz50.dll
