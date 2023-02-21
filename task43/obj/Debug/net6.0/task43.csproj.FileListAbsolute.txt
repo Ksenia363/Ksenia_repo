@@ -1,0 +1,5 @@
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Users\kgleb\Desktop\Обучение Ksenia\Ksenia_repo\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
