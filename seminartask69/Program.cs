@@ -21,3 +21,29 @@ else
 return res;
 }
 }
+
+
+
+// Второй вариант решения задачи
+
+// int ReadInt(string text)
+// {
+// System.Console.Write(text);
+// return Convert.ToInt32(Console.ReadLine());
+// }
+
+// int Power(int n, int m)
+// {
+
+// if (m == 1)
+// return n;
+// m--;
+// return n * Power(n, m);
+
+// }
+
+// int n = ReadInt("Введите N: ");
+// int m = ReadInt("Введите M: ");
+
+
+// System.Console.WriteLine(Power(n, m));
